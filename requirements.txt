@@ -1,0 +1,9 @@
+scikit-image==0.20.0
+opencv-python==4.7.0.72
+webcolors==1.13
+xgboost==1.7.5
+tensorflow==2.13.0
+tensorflow-gpu==2.13.0
+Keras-Preprocessing==1.1.2
+keras-metrics==1.1.0
+imblearn==0.10.1
