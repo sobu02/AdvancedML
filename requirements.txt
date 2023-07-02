@@ -8,4 +8,3 @@ tensorflow==2.13.0rc1
 webcolors==1.13
 xgboost==1.7.5
 tensorflow-gpu==2.13.0
-opendatasets==0.1.22
