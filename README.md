@@ -1,4 +1,7 @@
 # AdvancedML
+## Voraussetzungen
+In der kaggle.json muss zum Herunterladen der Daten der Nutzername und der Key eingetragen werden. Dafür wird ein Kaggle Account benötigt (https://www.kaggle.com). Über die **Settings** beim Nutzer kann bei **API** ein Token erstellt werden. In der erstellten kaggle.json können der Nutzername und der Key kopiert und eingefügt werden, bzw. die ganze kaggle.json kann ersetzt werden.
+
 ## Beschreibung
 
 Bei diesem Projekt handelt es sich um eine Abgabe im Modul Advanced Applied Machine Learning. Alle genutzten Quellen sind direkt im Code angegeben, nach den neuen Zitierrichtlinien für Code der DHBW. Die Begründung des Themas und die ethische Betrachtung finden nach der Datenanalyse statt. Die Modelle sind alle gespeichert. Der Code kann so auskommentiert werden, dass er lauffähig ist. Die Ausführzeit im aktuellen Zusatnd (Training des Neuronalen Netzes / SVM / XGBoost auskommentiert) beträgt 18 Minuten.
