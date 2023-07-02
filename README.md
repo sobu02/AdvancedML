@@ -1,6 +1,8 @@
 # AdvancedML
 ## Voraussetzungen
-In der kaggle.json muss zum Herunterladen der Daten der Nutzername und der Key eingetragen werden. Dafür wird ein Kaggle Account benötigt (https://www.kaggle.com). Über die **Settings** beim Nutzer kann bei **API** ein Token erstellt werden. In der erstellten kaggle.json können der Nutzername und der Key kopiert und eingefügt werden, bzw. die ganze kaggle.json kann ersetzt werden.
+Auf GitHub ist der gesamte Code mit den gespeicherten Modellen. Die hier angehängte Abgabe dient lediglich zum Abgleich. Hier sind keine Modelle gespeichert!
+
+!!! In der kaggle.json muss zum Herunterladen der Daten der Nutzername und der Key eingetragen werden. Dafür wird ein Kaggle Account benötigt (https://www.kaggle.com). Über die **Settings** beim Nutzer kann bei **API** ein Token erstellt werden. In der erstellten kaggle.json können der Nutzername und der Key kopiert und eingefügt werden, bzw. die ganze kaggle.json kann ersetzt werden.
 
 ## Beschreibung
 
